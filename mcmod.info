@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Oringo Client",
+  "description": "",
+  "version": "1.7.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Oringo", "Dadudze"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

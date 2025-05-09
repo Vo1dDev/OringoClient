@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+MixinConfigs: mixins.oringo.json
+FMLCorePluginContainsFMLMod: true
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.oringodevmode.Transformer
+
